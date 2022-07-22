@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ISE_assignment.cpp
+c:\users\wsc2010\desktop\apu_degree_y2_sem_2\ise\ise_assignment\consoleapplication1\ise_assignment.cpp(3): fatal error C1083: Cannot open include file: 'highgui/highgui.hpp': No such file or directory
